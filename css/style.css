@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.custom-table {
+    border-collapse: collapse;
+}
+
+.custom-table td, th {
+    border: 1px solid black;
+    padding: 20px 40px;
+    text-align: center;
+}
+
+.jami {
+    text-align: center;
+}
